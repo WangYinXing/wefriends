@@ -1,0 +1,2 @@
+[08-Mar-2016 09:46:16 UTC] PHP Fatal error:  Call to undefined function loadVerificationEmailTemplate() in /home/flashwolf17/public_html/application/api/Api_User.php on line 92
+[08-Mar-2016 09:49:05 UTC] PHP Fatal error:  Call to undefined function loadVerificationEmailTemplate() in /home/flashwolf17/public_html/application/api/Api_User.php on line 92
